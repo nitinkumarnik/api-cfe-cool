@@ -1,0 +1,6 @@
+__pychache__/
+*.py[cod]
+.env
+apienv/
+
+*.sqlite3
